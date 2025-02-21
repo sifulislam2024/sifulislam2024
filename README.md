@@ -1,7 +1,4 @@
-<img src="Blue Modern Professional LinkedIn Banner.png">
  
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=sifulislam2024](https://scontent.fcla7-1.fna.fbcdn.net/v/t39.30808-1/480236697_122204441714206782_9158461234574051856_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeF_eZPLD6JqDCqeI9ubKGJ9uj-9ZG6yRGS6P71kbrJEZB0ne9x1QS2h41_uFnB04zp3mxfVqNoCIEyLc1W_xcun&_nc_ohc=dOhS9mfxOkgQ7kNvgGeaM-S&_nc_oc=Adjx2MHGdB_FElAJmmqd_v5fH686H5oFOPpEMWEvoe1Sjv5o_fef3KeE9UAh1RvIBaY&_nc_zt=24&_nc_ht=scontent.fcla7-1.fna&_nc_gid=Al77Kl2zPSrzFBxsts52IKD&oh=00_AYDtOlX9s_yJiPRiicOnFNP4trKP7y97xGWBxYM7XKNUGA&oe=67BE4D50)" alt="sifulislam2024" /></a> </p>
-
 - 🔭 I’m currently working on [https://www.freelancer.com.bd/](https://www.freelancer.com.bd/)
 
 - 🌱 I’m currently learning **PHP, MYSQL**
