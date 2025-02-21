@@ -1,5 +1,5 @@
 
-<img src="C:\Users\KHANRASEL\Downloads\Blue Modern Professional LinkedIn Banner.png">
+<img src="Blue Modern Professional LinkedIn Banner.png">
 <h1 align="center">Hi 👋, I'm Saiful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
