@@ -1,4 +1,10 @@
- 
+<h1 align="center">Hi 👋, I'm Saiful Islam</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sifulislam2024&label=Profile%20views&color=0e75b6&style=flat" alt="sifulislam2024" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifulislam2024" alt="sifulislam2024" /></a> </p>
+
 - 🔭 I’m currently working on [https://www.freelancer.com.bd/](https://www.freelancer.com.bd/)
 
 - 🌱 I’m currently learning **PHP, MYSQL**
@@ -22,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifulislam2024&show_icons=true&locale=en&layout=compact" alt="sifulislam2024" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifulislam2024&show_icons=true&locale=en" alt="sifulislam2024" /></p>
+ 
