@@ -1,5 +1,5 @@
 
-<img src="../khan.png">
+<img src="C:\Users\KHANRASEL\Downloads\khan.png">
 
 
 <h1 align="center">Hi 👋, I'm Saiful Islam</h1>
